@@ -6,6 +6,7 @@ This project automates the conversion of newly created **EBS gp2 volumes** to **
 ## AWS Services Used
 - **EventBridge (CloudWatch Events)**
 - **Lambda**
+- **Python**
 - **CloudWatch Logs**
 - **IAM**
 
@@ -15,3 +16,10 @@ This project automates the conversion of newly created **EBS gp2 volumes** to **
 3. **CloudWatch Logs** store execution logs.
 
 
+## Screenshots
+Log Streams
+![log streams](https://github.com/user-attachments/assets/10fff5d7-c60b-4c2b-a820-b89ae93f3e93)
+
+
+gp3 Volume 
+![GP3 vol](https://github.com/user-attachments/assets/f41baf64-5b7b-48a3-b412-d71cb0a27c4e)
