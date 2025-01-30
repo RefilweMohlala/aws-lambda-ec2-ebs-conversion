@@ -17,6 +17,9 @@ This project automates the conversion of newly created **EBS gp2 volumes** to **
 
 
 ## Screenshots
+EventBridge rule
+![eventbridge rule](https://github.com/user-attachments/assets/66ff0962-5cdf-4bd2-b311-63d1f28f2364)
+
 Log Streams
 ![log streams](https://github.com/user-attachments/assets/10fff5d7-c60b-4c2b-a820-b89ae93f3e93)
 
